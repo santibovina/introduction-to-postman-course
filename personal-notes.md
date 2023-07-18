@@ -11,3 +11,4 @@ después se puede utilizar desde la pestaña Authorization --> Type: Bearer Toke
 
 para generar consultas con nombres al azar se puede utilizar {{$randomFullName}}
 
+para generar patches con algún apellido al azar {{$randomLastName}}
